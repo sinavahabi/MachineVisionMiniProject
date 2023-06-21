@@ -1,6 +1,6 @@
 Image Classification (AI)
 
-Features: Artificial Intelligence, Machine Learning, Machine Vision, Tensorflow library, Image processing libraries, Image Classification, Image validation, Jupyter
+Features: Artificial Intelligence, Machine Learning, Machine Vision, Deep Learning, Tensorflow library, Image processing libraries, Image Classification, Image validation, Jupyter
 
 Languages: Python
 
@@ -9,7 +9,7 @@ This mini project includes 2 modules:
 First file is our insurance to have a valid and correct type of files in images dataset which divides in two directories for training and testing. One is aluminum 7000 series and the other is aluminum 2000 series alloys.
 
 Second file is the main file which does the main task on this program. The program main goal is to reach a high accuracy in image classification and prediction.
-2 classes have been set to be classified. One is for aluminum 7000 series alloys and the other is for aluminum 2000 alloys series.
+2 classes have been set to be classified. One is for aluminum 7000 series alloys and the other is for aluminum 2000 series alloys.
 In order to specify the differences between aluminum 2000 series alloys and aluminum 7000 series alloys using Convolutional Neural Networks (CNNs), we would need a labeled dataset of images representing both types of alloys. The dataset should contain a sufficient number of images for each class, and the images should capture the characteristic features that differentiate the two series of alloys.
 For this purpose we went through the following steps:
 We used the Keras API with TensorFlow to build and train the CNN model. 
