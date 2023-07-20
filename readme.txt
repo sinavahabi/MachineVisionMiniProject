@@ -2,7 +2,7 @@ Image Classification (AI)
 
 Languages: Python, Jupyter Notebook
 
-Topics: Artificial intelligence, Machine learning, Machine vision, Deep learning, Tensorflow, Image processing, Image classification, Image validation, Jupyter, Keras, Ipython notebook, Image recognition, Artificial neural networks
+Topics: Artificial intelligence, Machine learning, Machine vision, Deep learning, Tensorflow, Image processing, Image classification, Image validation, Jupyter, Keras, iPython notebook, Image recognition, Artificial neural networks
 
 This mini project includes 2 modules:
 “image-test.py” and “machine-vision.ipynb”
